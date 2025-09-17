@@ -8,7 +8,6 @@ body:
     label: Visual
     description: Select the visual you experienced the issue.
     options:
-      - Dot Plot
       - Candlestick
       - Card with States
       - Smart Filter (FREE)
